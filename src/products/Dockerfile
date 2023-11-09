@@ -1,4 +1,4 @@
-FROM public.ecr.aws/docker/library/python:3.11-slim-bullseye
+FROM public.ecr.aws/docker/library/python:3.10-slim-bullseye
 
 WORKDIR /src/
 
