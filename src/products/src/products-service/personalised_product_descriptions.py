@@ -117,6 +117,8 @@ class PersonalisedDescriptionGenerator():
             f"high-quality language and factual coherence. Make the description rich in relevant details "
             f"and present it in a format that includes:\n"
             f"- A compelling opening sentence\n"
+            f"- The original description\n"
+            f"- New additional descriptions based on persona\n"
             f"- Key features\n"
             f"- Benefits\n"
             f"- Each paragraph generated should be in xml format, like so: <p>Paragraph here</p>\n"
